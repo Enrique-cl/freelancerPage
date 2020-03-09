@@ -86,3 +86,15 @@ body {
   	text-align: justify;
   	margin: 20px;
   }
+  /*tercer seccion*/
+  .about{
+  	padding: 10px;
+  	text-align: center;
+  	justify-content: center;
+  }
+  .about p{
+  	text-align: justify;
+  }
+  .about button:hover a{
+  	color: black;
+  }
