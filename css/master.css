@@ -18,3 +18,39 @@ body {
   .nav-item{
   	margin-right: 20px;
   }
+  .bg-info h1,p{
+  	color: white;
+  	font-family: cursive;
+  	text-align: center;
+  	margin-top: 20px;
+  }
+  .bg-link h1,p{
+  	color: black;
+  	text-align: center;
+  	font-family: cursive;
+  	margin-top: 20px;
+  }
+  .container-fluid{
+  	height: 600px;/*ancho de cada seccion*/
+  }
+
+  .container-fluid h1{	
+  	text-transform: uppercase; /* cambia el titulo del h1 a mayusculas*/
+  	font-weight: bold;
+  	font-size: 70px;/*tamaño del h1*/
+  	display: block;
+  }
+  /*priemr seccion*/
+  .start{
+  	padding-top: 100px;
+  	justify-content: center;
+  	text-align: center;
+  	display: flex;
+  }
+  .start img{
+  	max-width: 300px;
+  }
+  .start p{
+  	font-family: cursive;
+  	font-size: 20px;
+  }
