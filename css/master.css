@@ -118,3 +118,36 @@ body {
   	justify-content: center;
 
   }
+/*footer*/
+  .bg-dark h4,p,a{
+  	color: white;
+  	font-family: cursive;
+  	text-align: center;
+  }
+  .bg-dark h4{
+  	text-transform: uppercase;
+  	font-weight: bold;
+  	font-size: 20px;
+  }
+  .bg-dark .around-web a{
+  	color: white;
+  	font-size: 30px;
+  	margin: 10px;
+  	text-align: center;
+  }
+  .around-web{
+   	text-align: center;
+  }
+  .footer{
+  	padding: 20px;
+  }
+  .location a{
+  	color: red;
+  }
+  .about-freelancer a{
+  	margin-left: 5px;
+  	text-decoration: none;
+  }
+  .copy p{
+  	margin-top: 10px;
+  }
