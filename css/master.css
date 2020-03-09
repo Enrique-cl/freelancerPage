@@ -1,3 +1,20 @@
 body {
       position: relative; 
   }
+  /*barra de navegacion*/
+  .navbar{
+  	text-transform: uppercase;
+  	font-weight: bold;
+  	font-family: cursive;
+  }
+
+  .navbar-brand{
+  	margin-left: 100px;
+  }
+  .navbar-nav{
+  	margin-right: 100px;
+  	padding:10px;
+  }
+  .nav-item{
+  	margin-right: 20px;
+  }
